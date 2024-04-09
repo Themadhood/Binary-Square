@@ -4,19 +4,14 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='TPC_Template',
+    name='TPC_Binary-Square',
     version="1.0.0",#__version__,
 
-    url='https://github.com/Themadhood/Template',
+    url='https://github.com/Themadhood/Binary-Square',
     author='Themadhood Pequot',
     author_email='themadhoodpequot@gmail.com',
 
     packages=find_packages(),
-
-    install_requires=[
-        "gspread",#manipulates google sheets
-        "oauth2client",#logs in to google
-        "google-api-python-client",],
 
     classifiers=[
         'Intended Audience :: Developers',
