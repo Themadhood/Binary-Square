@@ -1,6 +1,6 @@
 #program:       Binary_Square
 #purpose:       makes the board
-#progamer:      Madison Arndt 7/26/2022
+#progamer:      Themadhood Pequot 7/26/2022
 
 _FILE = "Binary_Square"
 _VERSION = "0.0.2"
